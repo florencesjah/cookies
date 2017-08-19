@@ -72,6 +72,7 @@ a:hover {
 article {
 	float: left;
 	width: 50%;
+	padding-right: 20px;
 }
 
 article img {
@@ -102,7 +103,7 @@ ul li {
 	}
 
 	.container, .wrapper {
-		width: 100%
+		width: 100%;
 	}
 }
 
